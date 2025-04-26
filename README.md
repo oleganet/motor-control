@@ -24,4 +24,3 @@ if __name__ == "__main__":
     finally:
         GPIO.cleanup()
         print("GPIO cleaned up.")
-4r32e2e
